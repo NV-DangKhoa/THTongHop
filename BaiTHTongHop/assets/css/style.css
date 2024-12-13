@@ -2,7 +2,7 @@
     font-family: "Roboto", sans-serif;
 }
 .container {
-    background-image: url("BaiTHTongHop/assets/images/bg.png");
+    background-image: url("/BaiTHTongHop/assets/images/bg.png");
     background-size: cover;
     border: 2px solid #ed7d31;
     width: 800px;
